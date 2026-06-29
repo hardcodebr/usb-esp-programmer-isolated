@@ -1,5 +1,7 @@
 # USB-C ESP Programmer — Isolated (HC22003)
 
+![product](docs/img/hero.jpg)
+
 A **galvanically isolated** USB-C-to-UART programmer for the **ESP8266 / ESP32** series.
 Everything the [HC22002](https://github.com/hardcodebr/usb-esp-programmer) does — USB-to-UART
 bridging plus **automatic reset & boot** — with an **isolation barrier** between your PC and the
@@ -21,7 +23,7 @@ where a non-isolated adapter would be risky. Most ESP programmers are *not* isol
 - Supports **ESP8266, ESP32, ESP32-S2/S3, ESP32-C3**
 
 ## Documentation
-- [Quick-Start](docs/index.md) · [Pinout](docs/pinout.md) · [FAQ](docs/faq.md)
+- [Quick-Start](docs/index.md) · [Datasheet](docs/datasheet.md) · [Pinout](docs/pinout.md) · [FAQ](docs/faq.md)
 
 ---
 Made by [HardCode](https://hardcode.com.br) · support@hardcode.com.br
