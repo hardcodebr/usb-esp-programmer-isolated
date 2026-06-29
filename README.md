@@ -7,7 +7,7 @@ Everything the [HC22002](https://github.com/hardcodebr/usb-esp-programmer) does 
 bridging plus **automatic reset & boot** — with an **isolation barrier** between your PC and the
 target (digital isolator on data + isolated DC-DC on power).
 
-> 🛒 **Buy:** https://lectronz.com/stores/hardcode-electronics
+> 🛒 **Buy:** https://lectronz.com/products/galvanically-isolated-esp-programmer-auto-reset
 > 🔌 Don't need isolation? See the [non-isolated HC22002](https://github.com/hardcodebr/usb-esp-programmer).
 
 ## Why isolated?
