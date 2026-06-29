@@ -1,5 +1,7 @@
 # Pinout — Isolated USB-C ESP Programmer (HC22003)
 
+> 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.com.br](https://hardcode.com.br)
+
 Isolated target header (programmer → target):
 
 | Signal | Direction | Connect to ESP |
