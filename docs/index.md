@@ -25,3 +25,6 @@ Trouble? See the **[FAQ](faq.md)**.
 ## 💬 Feedback & suggestions
 Ideas, questions, or something you'd like to see? Open a discussion — we read every one:
 **https://github.com/hardcodebr/usb-esp-programmer-isolated/discussions**
+
+## 🛠️ Custom designs
+Need a custom board or a tweak to this one? We do custom design work — **support@hardcode.com.br**
