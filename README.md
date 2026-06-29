@@ -28,3 +28,6 @@ where a non-isolated adapter would be risky. Most ESP programmers are *not* isol
 ---
 Made by [HardCode](https://hardcode.com.br) · support@hardcode.com.br
 *Hardware design files are not published.*
+
+## 💬 Feedback
+Suggestions or questions → [open a discussion](https://github.com/hardcodebr/usb-esp-programmer-isolated/discussions) · support@hardcode.com.br

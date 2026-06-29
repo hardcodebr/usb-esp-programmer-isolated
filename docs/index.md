@@ -21,3 +21,7 @@ transparent to your tools.
   do not bridge the two grounds, or you defeat the isolation.
 
 Trouble? See the **[FAQ](faq.md)**.
+
+## 💬 Feedback & suggestions
+Ideas, questions, or something you'd like to see? Open a discussion — we read every one:
+**https://github.com/hardcodebr/usb-esp-programmer-isolated/discussions**
