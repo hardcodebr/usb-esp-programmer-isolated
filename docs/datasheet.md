@@ -16,7 +16,7 @@
 | **Pull-up selection** | 2.54 mm header + jumper cap |
 | **Max validated baud** | TBD |
 | **Power to target** | Optional isolated VCC; max current TBD |
-| **Dimensions** | TBD |
+| **Dimensions** | 57.4 × 32.2 mm |
 | **Mounting** | 4× rubber feet |
 | **Toolchain** | esptool, Arduino IDE, ESP-IDF |
 | **Supported targets** | ESP8266, ESP32, ESP32-S2/S3, ESP32-C3 |
