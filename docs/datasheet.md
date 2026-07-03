@@ -2,22 +2,22 @@
 
 > 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.com.br](https://hardcode.com.br)
 
-*Rev A (pilot). Items marked **TBD** are being finalized.*
+*Rev A (pilot).*
 
 | | Specification |
 |---|---|
 | **Type** | **Galvanically isolated** USB-to-UART ESP programmer |
 | **SKU** | HC22003 |
 | **Isolation** | Digital isolator (data) + isolated DC-DC (power) |
-| **Isolation rating** | TBD |
+| **Isolation rating** | 1500 VDC (I/O), component-rated |
 | **Host interface** | USB-C |
 | **Target interface** | UART — TX, RX, EN (reset), IO0 (boot), GND, VCC (all isolated) |
 | **Logic level** | 3.3 V |
 | **Auto-reset / auto-boot** | Yes |
 | **On-board buttons** | RST, BOOT |
 | **Pull-up selection** | 2.54 mm header + jumper cap |
-| **Max validated baud** | TBD |
-| **Power to target** | Optional isolated VCC; max current TBD |
+| **Max baud** | up to 2 Mbaud |
+| **Power to target** | Optional isolated VCC (3.3 V), up to ~150 mA |
 | **Dimensions** | 57.4 × 32.2 mm |
 | **Mounting** | 4× rubber feet |
 | **Toolchain** | esptool, Arduino IDE, ESP-IDF |
