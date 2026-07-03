@@ -17,4 +17,26 @@ Isolated target header (programmer → target):
 - The whole target side sits **behind the isolation barrier** — keep your target ground
   separate from PC/USB ground to preserve isolation.
 
-*(Isolation voltage rating and electrical limits: see the product page.)*
+## Pull-up jumpers (JP1 / JP2)
+
+Next to the target header are two small **2-pin jumpers**. Each connects an optional **pull-up
+(referenced to the isolated side)** onto one of the ESP's two strapping pins:
+
+| Jumper | Pull-up on | ESP pin |
+|--------|------------|---------|
+| **JP1** | EN / RESET | chip-enable |
+| **JP2** | IO0 / BOOT | boot strap |
+
+- **Jumper cap fitted = pull-up ON** (referenced to the programmer's *isolated* side).
+- **Ships with the caps removed (pull-ups OFF)** — the default for the isolated version.
+
+**Why off by default.** On the isolated programmer a fitted cap ties the target's strap pin to the
+programmer's isolated side. Isolation-critical, independently-powered, or mains-referenced targets
+should stay referenced to their **own** supply and ground, so the caps are left off out of the box.
+
+**Fit a cap when** you're flashing a **bare module powered from the programmer's isolated VCC** that
+needs EN/IO0 held high to boot. Fit JP1 (EN), JP2 (IO0), or both as needed. Keep them **off** for any
+target that has its own supply or its own pull-ups.
+
+*(JP1/JP2 are marked on the board silkscreen. Isolation voltage rating and electrical limits:
+see the product page.)*
