@@ -2,16 +2,16 @@
 
 > 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.com.br](https://hardcode.com.br)
 
-Isolated target header (programmer → target):
+Isolated target header (programmer → target), **in pin order as on the board** (pin 1 → 6):
 
-| Signal | Direction | Connect to ESP |
-|--------|-----------|----------------|
-| **GND** (isolated) | — | target GND |
-| **VCC** (isolated) | out (optional) | 3V3 — only if powering the target |
-| **TX** | out | target **RX** |
-| **RX** | in  | target **TX** |
-| **EN (RST)** | out | EN / reset |
-| **IO0 (BOOT)** | out | IO0 / boot strap |
+| Pin | Signal | Direction | Connect to ESP |
+|-----|--------|-----------|----------------|
+| 1 | **VCC** (isolated) | out (optional) | 3V3 — only if powering the target |
+| 2 | **IO0 (BOOT)** | out | IO0 / boot strap |
+| 3 | **EN (RST)** | out | EN / reset |
+| 4 | **RX** | in  | target **TX** |
+| 5 | **TX** | out | target **RX** |
+| 6 | **GND** (isolated) | — | target GND |
 
 - Logic level: **3.3 V**. Cross TX↔RX.
 - The whole target side sits **behind the isolation barrier** — keep your target ground
