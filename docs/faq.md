@@ -22,4 +22,4 @@ They enable a pull-up (referenced to the isolated side) on **EN** (JP1) and **IO
 bare module powered from the programmer's isolated VCC. See
 [Pinout → Pull-up jumpers](pinout.md#pull-up-jumpers-jp1--jp2).
 
-More help: support@hardcode.com.br
+More help: support@hardcode.tools

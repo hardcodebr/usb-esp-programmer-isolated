@@ -29,4 +29,4 @@ Ideas, questions, or something you'd like to see? Open a discussion — we read 
 **https://github.com/hardcodebr/usb-esp-programmer-isolated/discussions**
 
 ## 🛠️ Custom designs
-Need a custom board or a tweak to this one? We do custom design work — **support@hardcode.com.br**
+Need a custom board or a tweak to this one? We do custom design work — **support@hardcode.tools**
