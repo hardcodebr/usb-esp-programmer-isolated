@@ -23,6 +23,11 @@
 | **Toolchain** | esptool, Arduino IDE, ESP-IDF |
 | **Supported targets** | ESP8266, ESP32, ESP32-S2/S3, ESP32-C3 |
 
+## Pinout graphic
+
+<img src="img/pinout.png" width="800" alt="Pinout — USB-C ESP Programmer, isolated">
+
+
 **In the box:** isolated board · USB-C cable · 2× leads · quick-start card · ESD bag.
 
 See also: [Quick-Start](index.md) · [Pinout](pinout.md) · [FAQ](faq.md)
