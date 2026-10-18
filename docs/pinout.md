@@ -2,6 +2,9 @@
 
 > 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.tools](https://hardcode.tools)
 
+<img src="img/pinout.png" width="800" alt="Pinout">
+
+
 Isolated target header (programmer → target), **in pin order as on the board** (pin 1 → 6):
 
 | Pin | Signal | Direction | Connect to ESP |
