@@ -26,7 +26,7 @@ where a non-isolated adapter would be risky. Most ESP programmers are *not* isol
 - [Quick-Start](docs/index.md) · [Datasheet](docs/datasheet.md) · [Pinout](docs/pinout.md) · [FAQ](docs/faq.md)
 
 ---
-Made by [HardCode](https://hardcode.com.br) · support@hardcode.tools
+Made by [HardCode](https://hardcode.tools) · support@hardcode.tools
 *Hardware design files are not published.*
 
 ## 💬 Feedback

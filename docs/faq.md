@@ -1,6 +1,6 @@
 # FAQ / Troubleshooting — HC22003 (Isolated)
 
-> 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.com.br](https://hardcode.com.br)
+> 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.tools](https://hardcode.tools)
 
 **How is this different from the HC22002?**
 Same flashing function, plus a galvanic isolation barrier between your PC and the target —
